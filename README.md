@@ -25,3 +25,5 @@ Create the first 100 positive integers, cube every element, and reshape the resu
 
 Create a 6 ×6 ndarray named S containing the squares of the first 36 positive integers in increasing row-major order. 
 
+# History
+- Sept 2, 2026 - initial formatting (onti lang)
