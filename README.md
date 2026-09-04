@@ -23,7 +23,16 @@ Create the first 100 positive integers, cube every element, and reshape the resu
 
 **C. ABOVE-MEAN SQUARES PROBLEM**
 
-Create a 6 ×6 ndarray named S containing the squares of the first 36 positive integers in increasing row-major order. 
+Create a 6 ×6 ndarray named S containing the squares of the first 36 positive integers in increasing row-major order. Compute the mean of all elements of S and store it in S_mean. Then use Boolean filtering to select only the elements strictly greater than S_mean. Store these values in above_mean.
 
-# History
-- Sept 2, 2026 - initial formatting (onti lang)
+
+Thank you for reading!
+
+To see the full python program for PA 2, click this link: , download then run all cells. 
+
+
+# README file History:
+- Sept 2, 2026 - Initial formatting of README.
+- Sept 4, 2026 - Continuation of README formatting.
+- Sept 5, 2026 - .ipynb file uploaded to GitHub.
+- 
