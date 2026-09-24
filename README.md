@@ -34,5 +34,4 @@ To see the full python program for PA 2, click this link: , download then run al
 # README file History:
 - Sept 2, 2026 - Initial formatting of README.
 - Sept 4, 2026 - Continuation of README formatting.
-- Sept 5, 2026 - .ipynb file uploaded to GitHub.
-- 
+- Sept 24, 2026 - .ipynb, and 3 .npy files uploaded to GitHub.
